@@ -86,6 +86,12 @@ For issues or questions, please visit the relevant project repository:
 - **Journey Log Explorer**: https://polestar-oss.github.io/polestar-journey-log-explorer/
 - **GitHub Organization**: https://github.com/Polestar-OSS
 
+## Disclaimer
+
+This project is not affiliated with, endorsed by, or associated with Polestar, Polestar Automotive Holding UK PLC, or any of its subsidiaries. The Polestar name, logo, and brand are trademarks of their respective owners.
+
+This is a purely community-driven, independent open-source project created by enthusiasts for Polestar vehicle owners. All tools and resources provided here are developed and maintained by the community.
+
 ---
 
 Built with ❤️ by the Polestar OSS community
